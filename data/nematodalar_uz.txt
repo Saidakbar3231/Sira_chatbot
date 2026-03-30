@@ -1,0 +1,251 @@
+NEMATODALAR VA BIOPREPARAT TEXNOLOGIYASI
+O'zbek tilidagi ma'lumotlar bazasi - SIRA Chatbot uchun
+
+=== NEMATODALAR HAQIDA UMUMIY MA'LUMOT ===
+
+Nematodalar (Nematoda) - yumaloq chuvalchanglar tipiga mansub mikroskopik organizmlar.
+Ular tuproqda, suvda, o'simliklarda va hayvonlarda parazit sifatida yashaydi.
+Dunyo bo'yicha 25,000 dan ortiq nematoda turi aniqlangan.
+O'simlik paraziti nematodalar qishloq xo'jaligiga yiliga $100 milliarddan ortiq zarar keltiradi.
+Nematodalar uzunligi 0.1 mm dan 8 mm gacha bo'ladi.
+Ular anaerob sharoitda ham yashay oladi.
+
+=== FITPARAZIT NEMATODALAR ===
+
+Meloidogyne (Tugunakli nematodalar):
+- Eng xavfli o'simlik parazitlaridan biri
+- Ildizlarda tugunaklar hosil qiladi
+- 2000 dan ortiq o'simlik turini zararlaydi
+- Sabzavot, meva va don ekinlarida katta zarar keltiradi
+- Meloidogyne incognita, M. javanica, M. arenaria asosiy turlari
+
+Globodera (Kartoshka nematodasi):
+- Kartoshka va pomidor ekinlarini zararlaydi
+- Karantин obyekti hisoblanadi
+- Tuproqda 20 yilgacha tirik qoladi
+- Globodera rostochiensis va G. pallida asosiy turlari
+
+Pratylenchus (Ildiz chirish nematodasi):
+- Ko'pchilik ekinlarni zararlaydi
+- Ildiz to'qimalarini buzadi
+- Boshqa kasalliklarga yo'l ochadi
+
+Heterodera (Kista nematodasi):
+- Don ekinlarida keng tarqalgan
+- Heterodera avenae - suli nematodasi
+- Heterodera glycines - soya nematodasi
+
+=== NEMATODALAR HAYOT SIKLI ===
+
+1. Tuxum - nematodalar tuxum qo'yadi, bir tuxumdan yuzlab lichinka chiqadi
+2. J1 lichinka - tuxum ichida rivojlanadi
+3. J2 lichinka - tuproqqa chiqadi, o'simlik ildizini izlaydi
+4. J3 lichinka - o'simlik ichida rivojlanadi
+5. J4 lichinka - jinsiy etilishga yaqin
+6. Voyaga etgan nematoda - ko'payadi va tuxum qo'yadi
+
+Hayot sikli 25-30°C da 3-4 haftada tugallanadi.
+Qulay sharoitda bir yilda 6-8 avlod berishi mumkin.
+
+=== ZARARLANISH BELGILARI ===
+
+Yer usti belgilari:
+- O'simlik sarg'ayishi va so'lishi
+- O'sishdan orqada qolish
+- Hosildorlikning keskin kamayishi
+- Ozuqa moddalar yetishmasligi alomatlari
+
+Yer osti belgilari:
+- Ildizlarda tugunaklar (Meloidogyne)
+- Ildiz chirishishi
+- Ildiz sistemasining qisqarishi
+- Kistalar paydo bo'lishi
+
+=== BIOPREPARAT TEXNOLOGIYASI ===
+
+Biologik kurash usullari nematodlarga qarshi:
+
+1. ANTAGONIST ZAMBURUG'LAR:
+Trichoderma harzianum:
+- Keng tarqalgan biocontrol agenti
+- Nematoda tuxumlari va lichinkalarini yo'q qiladi
+- Tuproq salomatligini yaxshilaydi
+- Qo'llash: 1 kg/ga
+
+Purpureocillium lilacinum (Paecilomyces lilacinus):
+- Nematoda tuxumlariga parazit
+- Meloidogyne va Heterodera turlariga qarshi samarali
+- Issiq va nam sharoitda yaxshi ishlaydi
+
+Pochonia chlamydosporia:
+- Kista va tugunakli nematodlarga qarshi
+- Tuxumlarni parazitlaydi
+- Tuproqda uzoq vaqt saqlanadi
+
+2. ANTAGONIST BAKTERIYALAR:
+Bacillus thuringiensis:
+- Nematitsid xususiyatga ega
+- Nematoda lichinkalariga ta'sir qiladi
+- Xavfsiz va ekologik toza
+
+Bacillus subtilis:
+- Tuproq mikrobiotasini yaxshilaydi
+- Nematoda populyatsiyasini kamaytiradi
+- O'simlik immunitetini oshiradi
+
+Pseudomonas fluorescens:
+- Rhizosfera bakteriyasi
+- Nematodlarga qarshi enzimlar ishlab chiqaradi
+- O'simlik o'sishini rag'batlantiradi
+
+Pasteuria penetrans:
+- Nematodlarga obligat parazit
+- Meloidogyne turlariga juda samarali
+- Biologik kurashning istiqbolli vositasi
+
+3. ENTOMOPATAOGEN NEMATODALAR (EPNlar):
+Steinernema spp.:
+- Hasharotlarga parazit, o'simliklarga xavfsiz
+- Steinernema carpocapsae - ko'p hasharotlarga qarshi
+- Steinernema feltiae - sovuqqa chidamli
+
+Heterorhabditis bacteriophora:
+- Yengil tuproqlarda samarali
+- Grub va qo'ng'iz lichinkalariga qarshi
+
+=== BIOPREPARAT TAYYORLASH TEXNOLOGIYASI ===
+
+TRICHODERMA ASOSIDAGI BIOPREPARAT:
+
+Muhit tayyorlash:
+- Guruch kepagi yoki kepak - asosiy ozuqa
+- Mineral tuzlar (MgSO4, KH2PO4)
+- pH 5.5-6.5
+- Sterilizatsiya: 121°C, 20 daqiqa
+
+Fermentatsiya:
+- Temperatura: 25-28°C
+- Namlik: 60-65%
+- Aeration: zaruriy
+- Davomiyligi: 7-10 kun
+- Sporalar soni: min 10^8 KOE/g
+
+Formulyatsiya:
+- Quruq kukun - WP (wettable powder)
+- Granula - WG (water dispersible granules)
+- Suyuqlik - SC (suspension concentrate)
+- Qo'shimchalar: talk, bentonit, CMC
+
+Sifat nazorati:
+- Sporalar soni hisoblash (hemocytometer)
+- Uvchanlik testi (viability test)
+- Kontaminatsiya tekshiruvi
+- pH nazorati
+
+=== QO'LLASH TEXNOLOGIYASI ===
+
+Tuproqqa kiritish:
+- Ekin ekishdan oldin: 5-7 kun
+- Dozasi: 2-5 kg/ga (biologik preparatlar)
+- Namlik zarur: >60%
+- Chuqurligi: 10-15 sm
+
+Ildizga qo'llash:
+- Ko'chat ekishda ildizni botirish
+- Konsentratsiya: 10^7-10^8 spor/ml
+- Davomiyligi: 30 daqiqa
+
+Urug'ni ishlov berish:
+- Bio-priming usuli
+- Konsentratsiya: 10^8 spor/ml
+- Unib chiqishni yaxshilaydi
+
+=== INTEGRATSIYALASHGAN KURASH ===
+
+IPM (Integrated Pest Management) dasturi:
+
+1. Agrotexnik usullar:
+- Ekin almashlab ekish (nematodlarga sezgir bo'lmagan ekinlar)
+- Chuqur shudgor qilish
+- Sug'orish rejimini tartibga solish
+- Organik o'g'it ishlatish
+
+2. Kimyoviy usullar (oxirgi chora):
+- Nematitsidlar: Carbofuran, Oxamyl
+- Faqat og'ir zararlanishda
+- Biologik preparatlar bilan navbatlab
+
+3. Biologik usullar (asosiy):
+- Trichoderma + Bacillus kombinatsiyasi
+- EPNlardan foydalanish
+- Antagonist o'simliklar (Tagetes, Crotalaria)
+
+=== TUPROQ SOGLIGI ===
+
+Tuproq mikrobiomi:
+- 1 gr tuproqda 10^8-10^9 bakteriya
+- Biologik xilma-xillik muhim
+- Organik moddalar mikrobiomni boyitadi
+- pH 6.0-7.0 optimal
+
+Nematoda zichligini baholash:
+- Tuproq namunasi olish: 20 joy, 20 sm chuqurlik
+- Baerman funnel usuli
+- Suckering usuli
+- Ruxsat etilgan daraja: 1000 yoshim/100 gr tuproq
+
+=== LABORATORIYA USULLARI ===
+
+Nematodlarni ajratish:
+1. Baermann funnel - harakatlanuvchi nematodlar uchun
+2. Mistifier - tuproqdan ajratish
+3. Santrifugalash - barcha shakllar uchun
+4. Tuzli eritma - flotatsiya
+
+Identifikatsiya:
+- Morfologik belgilar (mikroskopiya)
+- Molekulyar usullar (PCR, ITS-rDNA)
+- Perineal naqsh (Meloidogyne)
+
+=== IQTISODIY ZARAR HISOBLASH ===
+
+Zararlanish darajasi (% hosil yo'qotish):
+- Engil: 1-1000 nematoda/100g tuproq → 5-10% zarar
+- O'rta: 1000-5000 nematoda → 10-30% zarar
+- Og'ir: 5000+ nematoda → 30-70% zarar
+
+Iqtisodiy chegara:
+- Kartoshka: 50 Globodera tuxumi/g tuproq
+- Sabzavot: 200 Meloidogyne J2/100g tuproq
+- Bug'doy: 1000 Heterodera/100g tuproq
+
+=== EKOLOGIK XAVFSIZLİK ===
+
+Biologik preparatlarning afzalliklari:
+- Kimyoviy qoldiqlari yo'q
+- Foydali organizmlarni saqlaydi
+- Tuproq mikrobiotasini boyitadi
+- Inson va hayvonlar uchun xavfsiz
+- Eksportga yo'naltirilgan mahsulotlar uchun zaruriy
+
+Sertifikatlash:
+- Organik sertifikat talablari
+- USDA Organic, EU Organic
+- O'zbekiston organik standartlari
+
+=== SAVOLLAR VA JAVOBLAR ===
+
+Savol: Nematodlarni ko'z bilan ko'rish mumkinmi?
+Javob: Aksariyat nematodlar mikroskopik - ularni ko'rish uchun laboratoriya uskunalari kerak. Faqat ba'zi yirik turlar (8mm gacha) ko'z bilan ko'rinishi mumkin.
+
+Savol: Biologik preparatlar kimyoviy preparatlar kabi tez ishlaydimi?
+Javob: Yo'q, biologik preparatlar sekinroq ta'sir qiladi (2-4 hafta), lekin ta'siri uzoqroq davom etadi va ekologik jihatdan xavfsizroq.
+
+Savol: Trichoderma qancha vaqt tuproqda saqlanadi?
+Javob: Qulay sharoitda (namlik, organik modda, pH 6-7) Trichoderma 6-12 oy tuproqda faol holda saqlanishi mumkin.
+
+Savol: Biopreparat qachon qo'llanilishi kerak?
+Javob: Ekin ekishdan 1-2 hafta oldin yoki ildizga bevosita ekish vaqtida. Kech kuzda yoki erta bahorda tuproqqa kiritish ham samarali.
+
+Savol: Qancha dozada ishlatish kerak?
+Javob: Trichoderma uchun 2-5 kg/ga, Bacillus uchun 1-3 l/ga. Aniq doza preparat turiga va zararlanish darajasiga qarab belgilanadi.

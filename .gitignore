@@ -24,8 +24,8 @@ env/
 # Logs
 *.log
 
-# Data files (add your own documents locally)
-data/
+# Data files
+data/*.mp3
 
 # IDE
 .vscode/
