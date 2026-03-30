@@ -1,13 +1,12 @@
 import asyncio
 import chromadb
-from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
 
 from config import settings
 
 COLLECTION_NAME = "sira_docs"
-EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 
-_embedding_fn = SentenceTransformerEmbeddingFunction(model_name=EMBEDDING_MODEL)
+_embedding_fn = ONNXMiniLM_L6_V2()
 _chroma_client = chromadb.PersistentClient(path=settings.CHROMA_PERSIST_DIR)
 
 

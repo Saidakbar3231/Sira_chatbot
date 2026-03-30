@@ -4,7 +4,6 @@ sqlalchemy==2.0.48
 aiosqlite
 groq
 chromadb==1.5.5
-sentence-transformers==5.3.0
 pypdf
 python-docx
 python-dotenv==1.2.2
