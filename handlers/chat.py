@@ -16,6 +16,27 @@ from utils.language_detect import detect_language
 logger = logging.getLogger(__name__)
 router = Router()
 
+_GREETINGS_UZ = {"salom", "assalomu alaykum", "assalamu alaykum"}
+_GREETINGS_EN = {"hello", "hi", "hey"}
+_GREETINGS_RU = {"привет", "здравствуйте", "здравствуй"}
+
+_GREETING_REPLIES = {
+    "uz": "Salom! Nematodalar haqida savolingiz bormi? 😊",
+    "en": "Hello! Do you have any questions about nematodes? 😊",
+    "ru": "Здравствуйте! Есть вопросы о нематодах? 😊",
+}
+
+
+def _greeting_lang(text: str) -> str | None:
+    normalized = text.strip().lower().rstrip("!.,")
+    if normalized in _GREETINGS_UZ:
+        return "uz"
+    if normalized in _GREETINGS_EN:
+        return "en"
+    if normalized in _GREETINGS_RU:
+        return "ru"
+    return None
+
 
 @router.message(F.text & ~F.text.startswith("/"))
 async def handle_message(message: Message, bot: Bot):
@@ -23,6 +44,12 @@ async def handle_message(message: Message, bot: Bot):
     username = message.from_user.username
     text = message.text
     lang = detect_language(text)
+
+    greeting_lang = _greeting_lang(text)
+    if greeting_lang:
+        await save_message(user_id, username, text, greeting_lang)
+        await message.answer(_GREETING_REPLIES[greeting_lang])
+        return
 
     await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
 
